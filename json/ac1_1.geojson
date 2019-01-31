@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
-"name": "ac1_1",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+ 
 "features": [
 { "type": "Feature", "properties": { "time": 1, "id": "route1", "name": "inicio", "latitud": 35, "longitud": 140 }, "geometry": { "type": "Point", "coordinates": [ 139.69596, 35.443244 ] } },
 { "type": "Feature", "properties": { "time": 2, "id": "route1", "name": "Along route", "latitud": 32, "longitud": 139 }, "geometry": { "type": "Point", "coordinates": [ 138.768502883178172, 32.407923509257451 ] } },
@@ -64,7 +64,7 @@
 { "type": "Feature", "properties": { "time": 59, "id": "route1", "name": "Along route", "latitud": 1, "longitud": -81 }, "geometry": { "type": "Point", "coordinates": [ -81.299924816474928, 0.753358776887273 ] } },
 { "type": "Feature", "properties": { "time": 60, "id": "route1", "name": "Along route", "latitud": 3, "longitud": -80 }, "geometry": { "type": "Point", "coordinates": [ -79.985538520798869, 2.65099209720315 ] } },
 { "type": "Feature", "properties": { "time": 61, "id": "route1", "name": "Along route", "latitud": 5, "longitud": -79 }, "geometry": { "type": "Point", "coordinates": [ -79.036259529477249, 4.618508175090231 ] } },
-{ "type": "Feature", "properties": { "time": 62, "id": "route1", "name": "Along route", "latitud": 7, "longitud": -79 }, "geometry": { "type": "Point", "coordinates": [ -78.890216607735468, 6.580581864225234 ] } }
-{ "type": "Feature", "properties": { "time": 63, "id": "route1", "name": "final", "latitud": 9, "longitud": -80 }, "geometry": { "type": "Point", "coordinates": [ -79.565775, 8.950786 ] } },
+{ "type": "Feature", "properties": { "time": 62, "id": "route1", "name": "Along route", "latitud": 7, "longitud": -79 }, "geometry": { "type": "Point", "coordinates": [ -78.890216607735468, 6.580581864225234 ] } },
+{ "type": "Feature", "properties": { "time": 63, "id": "route1", "name": "final", "latitud": 9, "longitud": -80 }, "geometry": { "type": "Point", "coordinates": [ -79.565775, 8.950786 ] } }
 ]
 }
